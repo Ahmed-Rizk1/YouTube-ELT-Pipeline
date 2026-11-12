@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+data/*.json
+PROJECTS_PROGRESS.md
+TUNING_PLAN.md
+
+# Developed by Ahmed Rizk Gawish
